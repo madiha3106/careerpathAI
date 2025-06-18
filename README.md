@@ -1,2 +1,1 @@
-# careerpathAI
-helps the student to choose their career options on their interests
+https://careerpathai-jxbzo8sarakdpgzrp8ke2s.streamlit.app/
